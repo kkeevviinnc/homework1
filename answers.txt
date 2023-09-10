@@ -1,3 +1,4 @@
 What is a remote repository?
+
 A remote repository stores code and projects on the internet or other network, 
 away from your local device.
